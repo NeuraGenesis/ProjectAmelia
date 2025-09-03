@@ -403,7 +403,7 @@ body::-webkit-scrollbar {
     text-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
     max-height: 75%;
     overflow-y: auto;
-    font-size: clamp(10px, 1.7vmin, 20px);
+    font-size: clamp(15px, 2vmin, 20px);
     letter-spacing: 0.05vw;
 }
 
@@ -490,5 +490,6 @@ body::-webkit-scrollbar {
     .teks-naik { font-size: clamp(14px, 2vw, 20px); padding: 2vh 2vw; }*/
     .grid-section { grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 4em; }
 }
+
 
 
